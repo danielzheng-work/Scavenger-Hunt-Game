@@ -8,7 +8,7 @@ This is first person perspective game, and use need to actively look for the tar
 
 ## How to run
 
-please use 'make clean' to clean the directory of intermediate build files and the executable, then simply typing 'make' will compile all source code files to object files .o, and then link all object files into an executable
+please use `make clean` to clean the directory of intermediate build files and the executable, then simply typing `make` will compile all source code files to object files .o, and then link all object files into an executable
 
 ## Resources used
 
