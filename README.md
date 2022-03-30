@@ -4,7 +4,7 @@
 
 ## Overview of project
 
-This is first person perspective game, and use need to actively look for the target 3d Objects in 3D room scenes within limit timing.
+This is first person perspective game, and user needs to actively look for the target 3d Objects in 3D room scenes within limit timing.
 
 ## How to run
 
