@@ -6,6 +6,10 @@
 
 This is first person perspective game, and use need to actively look for the target 3d Objects in 3D room scenes within limit timing.
 
+## How to run
+
+please use 'make clean' to clean the directory of intermediate build files and the executable, then simply typing 'make' will compile all source code files to object files .o, and then link all object files into an executable
+
 ## Resources used
 
 * [Camera vector for rotation](https://learnopengl.com/Getting-started/Camera) 
